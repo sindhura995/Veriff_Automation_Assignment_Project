@@ -1,6 +1,0 @@
-Chrome Browser version:100.0.4896.75
-Chrome driver version: 100.0.4896.60
-Junit version:4
-Selenium version:4.1.3(Java)
-
-To run the project go to the TestRunner file in package named cucumber.Options and right click --> run as --> Junit test.

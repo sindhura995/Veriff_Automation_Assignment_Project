@@ -1,0 +1,2 @@
+I have used a Maven project along with selenium as an Automation tool with BDD Framework to execute UI tests.
+In order to run, go to feature file validity.feature and remove comments and run the project under cucumber.Options package and run the file TestRunner.java by right clicking and run as Java Application.
