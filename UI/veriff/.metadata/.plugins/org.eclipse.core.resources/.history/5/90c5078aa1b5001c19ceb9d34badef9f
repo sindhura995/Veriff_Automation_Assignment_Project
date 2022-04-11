@@ -1,0 +1,3 @@
+module auto {
+	requires selenium.chrome.driver;
+}

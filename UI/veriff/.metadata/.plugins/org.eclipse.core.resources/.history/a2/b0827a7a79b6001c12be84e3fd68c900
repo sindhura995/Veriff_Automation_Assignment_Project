@@ -1,0 +1,14 @@
+package pkg;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Test_class {
+public static void main(String[] args) {
+	
+
+	System.setProperty("webdriver.chrome.driver", "E:\\veriff\\auto\\resources\\chromedriver.exe");
+	WebDriver driver = new ChromeDriver();
+	driver.get("https://www.demo.saas-3.veriff.me");
+}
+}
